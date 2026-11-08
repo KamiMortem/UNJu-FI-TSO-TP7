@@ -6,7 +6,7 @@
 **Responsable de Cátedra:** Ing. María Fernanda Vázquez  
 **JTP:** Ing. Fabio D. Argañaraz  
 
-[![GitHub Classroom Autograding](https://github.com/UNJU-Teoria-de-Sistemas-Operativos/TP7/actions/workflows/classroom.yml/badge.svg)](https://github.com/UNJU-Teoria-de-Sistemas-Operativos/TP7/actions/workflows/classroom.yml)
+[![GitHub Classroom Autograding](https://github.com/KamiMortem/UNJu-FI-TSO-TP7/actions/workflows/classroom.yml/badge.svg)](https://github.com/KamiMortem/UNJu-FI-TSO-TP7/actions/workflows/classroom.yml)
 
 ---
 
